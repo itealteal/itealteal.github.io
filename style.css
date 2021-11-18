@@ -374,7 +374,7 @@ div.fleet{
         margin-top:120px;
         margin-left: 30px;
     }
-    a:hover{
+    .overlay a:hover{
         background-color: grey;
         border-radius: 0%;
       }
